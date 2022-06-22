@@ -1,0 +1,8 @@
+.git
+certs
+*.bk
+docker/elasticsearch/config/certs
+node*/.env
+node*/esdata
+node*/kibana/data
+node*/fluentd/data
